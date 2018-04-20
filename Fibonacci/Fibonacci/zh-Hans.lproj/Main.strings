@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "平均"; ObjectID = "239-Fj-aD5"; */
+"239-Fj-aD5.text" = "平均";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5ZJ-B5-xSc"; */
+"5ZJ-B5-xSc.text" = "Label";
+
+/* Class = "UISegmentedControl"; 85g-4O-4nz.segmentTitles[0] = "日"; ObjectID = "85g-4O-4nz"; */
+"85g-4O-4nz.segmentTitles[0]" = "日";
+
+/* Class = "UISegmentedControl"; 85g-4O-4nz.segmentTitles[1] = "周"; ObjectID = "85g-4O-4nz"; */
+"85g-4O-4nz.segmentTitles[1]" = "周";
+
+/* Class = "UISegmentedControl"; 85g-4O-4nz.segmentTitles[2] = "月"; ObjectID = "85g-4O-4nz"; */
+"85g-4O-4nz.segmentTitles[2]" = "月";
+
+/* Class = "UISegmentedControl"; 85g-4O-4nz.segmentTitles[3] = "年"; ObjectID = "85g-4O-4nz"; */
+"85g-4O-4nz.segmentTitles[3]" = "年";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Htl-1O-lyo"; */
+"Htl-1O-lyo.text" = "Label";
+
+/* Class = "UILabel"; text = "最小"; ObjectID = "TUo-iu-q91"; */
+"TUo-iu-q91.text" = "最小";
+
+/* Class = "UIButton"; normalTitle = "色盲测试"; ObjectID = "XEk-Ch-MJJ"; */
+"XEk-Ch-MJJ.normalTitle" = "色盲测试";
+
+/* Class = "UISegmentedControl"; fus-qD-GyZ.segmentTitles[0] = "日"; ObjectID = "fus-qD-GyZ"; */
+"fus-qD-GyZ.segmentTitles[0]" = "日";
+
+/* Class = "UISegmentedControl"; fus-qD-GyZ.segmentTitles[1] = "周"; ObjectID = "fus-qD-GyZ"; */
+"fus-qD-GyZ.segmentTitles[1]" = "周";
+
+/* Class = "UISegmentedControl"; fus-qD-GyZ.segmentTitles[2] = "月"; ObjectID = "fus-qD-GyZ"; */
+"fus-qD-GyZ.segmentTitles[2]" = "月";
+
+/* Class = "UISegmentedControl"; fus-qD-GyZ.segmentTitles[3] = "年"; ObjectID = "fus-qD-GyZ"; */
+"fus-qD-GyZ.segmentTitles[3]" = "年";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "g1f-iv-Ppy"; */
+"g1f-iv-Ppy.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ic2-S3-UA9"; */
+"ic2-S3-UA9.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "视力检查"; ObjectID = "jAO-bR-rgZ"; */
+"jAO-bR-rgZ.normalTitle" = "视力检查";
+
+/* Class = "UILabel"; text = "最大"; ObjectID = "onz-7x-ep7"; */
+"onz-7x-ep7.text" = "最大";
+
+/* Class = "UILabel"; text = "最新"; ObjectID = "sfK-jS-9Mi"; */
+"sfK-jS-9Mi.text" = "最新";

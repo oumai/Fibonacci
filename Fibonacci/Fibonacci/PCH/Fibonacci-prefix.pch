@@ -1,0 +1,48 @@
+//
+//  Fibonacci-prefix.pch
+//  Fibonacci
+//
+//  Created by shipeiyuan on 16/8/24.
+//  Copyright © 2016年 woaiqiu947. All rights reserved.
+//
+
+//#ifndef Fibonacci_prefix_pch
+//#define Fibonacci_prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+//#endif /* Fibonacci_prefix_pch */
+
+
+#ifdef __OBJC__
+//工具类
+#import "CommonMacro.h"
+#import "KMTools.h"
+#import "KMUIViewController.h"
+#import "KMUINavigationController.h"
+#import "KMDataManager.h"
+#import "BATMacro.h"
+//第三方库
+#import "Masonry.h"
+#import "GTMBase64.h"
+#import "AFNetworking.h"
+#import "SVProgressHUD.h"
+#import "SDImageCache.h"
+#import "UIImageView+WebCache.h"
+#import "Reachability.h"
+#import "CocoaLumberjack.h"
+#import "BlocksKit.h"
+#import "BlocksKit+UIKit.h"
+#import "HTTPTool.h"
+#import "BATExpandHeader.h"//BAT扩展
+#import "TalkingData.h"
+#import "UINavigationController+ShouldPopOnBackButton.h"
+#import "UIButton+CustomButton.h"
+#import "UIAlertController+KM.h"
+#import "UILabel+CustomLabel.h"
+#import "UITextField+CustomTextField.h"
+#import "UIView+Border.h"
+
+#endif
+
